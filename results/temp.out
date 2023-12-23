@@ -1,0 +1,28 @@
+Start time= 2016-07-08 16:00:29.603645
+TM parameters:
++---------------------------+---------+
+|       Parameter name      |  Value  |
++---------------------------+---------+
+|      columnDimensions     | (2048,) |
+|       cellsPerColumn      |    32   |
+|    activationThreshold    |    15   |
+|        minThreshold       |    15   |
+|     maxNewSynapseCount    |    40   |
+|    permanenceIncrement    |   0.1   |
+|    permanenceDecrement    |   0.1   |
+|     initialPermanence     |   0.21  |
+|    connectedPermanence    |   0.5   |
+| predictedSegmentDecrement |   0.01  |
++---------------------------+---------+
+Experiment parameters:
+  switchover : 3500
+  noise : 0.1
+  name : temp
+  cells : 32
+  simulation : normal
+  secondNoise : 0.5
+  seed : 42
+  iterations : 9000
+  secondKill : 50000
+End time= 2016-07-08 16:13:52.759487
+Duration= 0:13:23.155867
